@@ -1,5 +1,7 @@
 ##Quick Start
 
+https://github.com/sanogotech/springcrypto-example.git
+
 ***Ensure that you have the unlimited [Java Cryptography Extension](http://www.oracle.com/technetwork/java/javase/downloads/jce8-download-2133166.html) installed***
 
 Run the application
